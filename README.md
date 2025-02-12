@@ -1,12 +1,19 @@
 # TugasStreamlit
 
 ## Setup Environment - GitBash
-mkdir Dashboard
-cd Dashboard
-pipenv install
-pipenv shell
-pip install -r requirements.txt
+```sh
+   mkdir dashboard
+   cd dashboard
+   pipenv install
+   pipenv shell
+   pip install -r requirments.txt
+   ```
+
+   
+
 
 
 ## Run Streamlit
-streamlit run dashboard.py
+```sh
+   streamlit run dashboard.py
+   ```
